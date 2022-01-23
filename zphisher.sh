@@ -13,7 +13,8 @@
 ##   DarksecDevelopers  - https://github.com/DarksecDevelopers
 ##   Ignitetch  - https://github.com/Ignitetch/AdvPhishing
 ##   Võ Ngọc Bảo - https://github.com/vongocbao
-##   Mustakim Ahmed - https://www.facebook.com/Learn.Termux.009
+##   Mustakim Ahmed - https://www.instagram
+.com/Learn.Termux.009
 
 
 ## If you Copy Then Give the credits :)
